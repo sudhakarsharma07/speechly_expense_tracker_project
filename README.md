@@ -1,4 +1,3 @@
-# Speechly Expense Tracker
 # Speechly Expense Tracker 💸🗣️
 
 This is a **Complex Expense Budget Tracker** built with **React**, **Context API**, and **Speechly** for voice input. It's a modern, scalable application where you can **track income and expenses**, and even **add transactions using voice commands**.
